@@ -1,0 +1,26 @@
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/simple_mutex/simple_mutex.o:  \
+ /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/simple_mutex/simple_mutex.c \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/stdio.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/stdarg.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/sys/types.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/bits/types.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/unistd.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/bits/fileno.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/task.h \
+  /afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/lock.h
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/stdio.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/stdarg.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/sys/types.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/bits/types.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/unistd.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/bits/fileno.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/task.h:
+
+/afs/ece/usr/taoy/TA/349TA/lab4_cmar/tasks/libc/include/lock.h:

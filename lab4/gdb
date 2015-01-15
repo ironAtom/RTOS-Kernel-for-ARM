@@ -1,0 +1,12 @@
+./copy2sd.sh ~/342_embeded/lab4/kernel/kernel.bin ~/342_embeded/lab4/tasks/bin/hello.bin
+
+gdb-multiarch
+set architecture armv5te
+target remote localhost:1234
+
+add-symbol-file ~/342_embeded/lab4/kernel/kernel 0xa3000000
+add-symbol-file ~/342_embeded/lab4/tasks/bin/hello 0xa0000000
+
+fatload mmc 0 0xa3000000 kernel.bin
+fatload mmc 0 0xa0000000 hello.bin
+

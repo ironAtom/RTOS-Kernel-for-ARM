@@ -1,0 +1,6 @@
+PROGS_DAGGER_OBJS := cyclone.o
+PROGS_DAGGER_OBJS := $(PROGS_DAGGER_OBJS:%=$(TDIR)/cyclone/%)
+ALL_OBJS += $(PROGS_DAGGER_OBJS)
+
+$(TDIR)/bin/cyclone : $(TSTART) $(PROGS_DAGGER_OBJS) $(TLIBC)
+

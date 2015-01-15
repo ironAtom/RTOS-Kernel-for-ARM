@@ -1,0 +1,23 @@
+/home/vally/Downloads/lab4/tasks/dagger/dagger.o:  \
+ /home/vally/Downloads/lab4/tasks/dagger/dagger.c \
+  /home/vally/Downloads/lab4/tasks/libc/include/stdio.h \
+  /home/vally/Downloads/lab4/tasks/libc/include/stdarg.h \
+  /home/vally/Downloads/lab4/tasks/libc/include/sys/types.h \
+  /home/vally/Downloads/lab4/tasks/libc/include/bits/types.h \
+  /home/vally/Downloads/lab4/tasks/libc/include/task.h \
+  /home/vally/Downloads/lab4/tasks/libc/include/unistd.h \
+  /home/vally/Downloads/lab4/tasks/libc/include/bits/fileno.h
+
+/home/vally/Downloads/lab4/tasks/libc/include/stdio.h:
+
+/home/vally/Downloads/lab4/tasks/libc/include/stdarg.h:
+
+/home/vally/Downloads/lab4/tasks/libc/include/sys/types.h:
+
+/home/vally/Downloads/lab4/tasks/libc/include/bits/types.h:
+
+/home/vally/Downloads/lab4/tasks/libc/include/task.h:
+
+/home/vally/Downloads/lab4/tasks/libc/include/unistd.h:
+
+/home/vally/Downloads/lab4/tasks/libc/include/bits/fileno.h:
